@@ -1,1 +1,3 @@
-console.log("Hola comit");
+export function print() {
+  console.log("Hola comit");
+}
